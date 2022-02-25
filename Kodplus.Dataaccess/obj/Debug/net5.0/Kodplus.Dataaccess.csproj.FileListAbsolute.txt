@@ -1,0 +1,12 @@
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\bin\Debug\net5.0\Kodplus.Dataaccess.deps.json
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\bin\Debug\net5.0\Kodplus.Dataaccess.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\bin\Debug\net5.0\Kodplus.Dataaccess.pdb
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\Kodplus.Dataaccess.csproj.AssemblyReference.cache
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\Kodplus.Dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\Kodplus.Dataaccess.AssemblyInfoInputs.cache
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\Kodplus.Dataaccess.AssemblyInfo.cs
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\Kodplus.Dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\Kodplus.Dataaccess.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\refint\Kodplus.Dataaccess.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\Kodplus.Dataaccess.pdb
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Dataaccess\obj\Debug\net5.0\ref\Kodplus.Dataaccess.dll

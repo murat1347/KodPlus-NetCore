@@ -1,0 +1,15 @@
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\bin\Debug\net5.0\Kodplus.Business.deps.json
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\bin\Debug\net5.0\Kodplus.Business.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\bin\Debug\net5.0\Kodplus.Business.pdb
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\bin\Debug\net5.0\Kodplus.Dataaccess.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\bin\Debug\net5.0\Kodplus.Dataaccess.pdb
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.csproj.AssemblyReference.cache
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.AssemblyInfoInputs.cache
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.AssemblyInfo.cs
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.csproj.CoreCompileInputs.cache
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.csproj.CopyComplete
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\refint\Kodplus.Business.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\Kodplus.Business.pdb
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.Business\obj\Debug\net5.0\ref\Kodplus.Business.dll

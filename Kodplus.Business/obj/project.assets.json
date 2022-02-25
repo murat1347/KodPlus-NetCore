@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Dapper/2.0.78": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
+      "Dapper.Contrib/2.0.78": {
+        "type": "package",
+        "dependencies": {
+          "Dapper": "2.0.78"
+        },
+        "compile": {
+          "lib/net5.0/Dapper.Contrib.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.Contrib.dll": {}
+        }
+      },
+      "Kodplus.Dataaccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Dapper.Contrib": "2.0.78"
+        },
+        "compile": {
+          "bin/placeholder/Kodplus.Dataaccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kodplus.Dataaccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.0.78": {
+      "sha512": "vLPwL2HZXp/DN17Eu7sg6GMEj02alq7jcy6atn5Gv8i96b9Hu1UoxlCrhInUPfSFLQQiD8O7pdWAE1fdUEO/1Q==",
+      "type": "package",
+      "path": "dapper/2.0.78",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dapper.2.0.78.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "Dapper.Contrib/2.0.78": {
+      "sha512": "sUfDVIf8LlHNiz3MfUFodeyRiemfN1JFkPxYjCxFWlwNPg1iQ49mB+0E89TkywWs4X8fiRWOVDQgtH5FtzK5Kw==",
+      "type": "package",
+      "path": "dapper.contrib/2.0.78",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dapper.contrib.2.0.78.nupkg.sha512",
+        "dapper.contrib.nuspec",
+        "lib/net461/Dapper.Contrib.dll",
+        "lib/net461/Dapper.Contrib.xml",
+        "lib/net5.0/Dapper.Contrib.dll",
+        "lib/net5.0/Dapper.Contrib.xml",
+        "lib/netstandard2.0/Dapper.Contrib.dll",
+        "lib/netstandard2.0/Dapper.Contrib.xml"
+      ]
+    },
+    "Kodplus.Dataaccess/1.0.0": {
+      "type": "project",
+      "path": "../Kodplus.Dataaccess/Kodplus.Dataaccess.csproj",
+      "msbuildProject": "../Kodplus.Dataaccess/Kodplus.Dataaccess.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Kodplus.Dataaccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kodplus.dev1\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Business\\Kodplus.Business.csproj",
+      "projectName": "Kodplus.Business",
+      "projectPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Business\\Kodplus.Business.csproj",
+      "packagesPath": "C:\\Users\\kodplus.dev1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Business\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kodplus.dev1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Dataaccess\\Kodplus.Dataaccess.csproj": {
+              "projectPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Dataaccess\\Kodplus.Dataaccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
