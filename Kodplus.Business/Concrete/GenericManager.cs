@@ -43,5 +43,11 @@ namespace Kodplus.Business.Concrete
         {
             _genericService.Delete(entity);
         }
+
+        public void Delete(int id)
+        {
+            var values=_genericService.GetById(id);
+            _genericService.Delete(values);
+        }
     }
 }

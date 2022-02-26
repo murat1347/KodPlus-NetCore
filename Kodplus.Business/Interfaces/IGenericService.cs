@@ -13,5 +13,6 @@ namespace Kodplus.Business.Interfaces
         public void Insert(TEntity entity);
         public void Update(TEntity entity);
         public void Delete(TEntity entity);
+        public void Delete(int id);
     }
 }

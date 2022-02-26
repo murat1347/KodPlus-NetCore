@@ -1,9 +1,10 @@
-﻿@model List<Kodplus.Dataaccess.Entities.Article>
+﻿@model Kodplus.Dataaccess.Entities.Article
 
 
-@foreach (var item in Model)
+
 {
-     @item.Title
-     @item.Description
+<h1>@Model.Title</h1> <br/>
+
+     @Model.Description
 
 }

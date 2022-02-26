@@ -128,3 +128,7 @@ C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\bin\Debug\net5.0\Kodplu
 C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\bin\Debug\net5.0\Kodplus.DTO.dll
 C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\bin\Debug\net5.0\Kodplus.DTO.pdb
 C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\obj\Debug\net5.0\Razor\Views\Home\Add.cshtml.g.cs
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\obj\Debug\net5.0\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\kodplus.dev1\source\repos\Kodplus\Kodplus.WebUI\obj\Debug\net5.0\Razor\Views\Home\Delete.cshtml.g.cs

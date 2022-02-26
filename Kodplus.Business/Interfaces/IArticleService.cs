@@ -9,5 +9,6 @@ namespace Kodplus.Business.Interfaces
 {
     public interface IArticleService : IGenericService<Article>
     {
+       
     }
 }

@@ -15,19 +15,21 @@
 </head>
 <body>
 
-@foreach (var item in Model)
-{
-    <div class="card text-center">
-        <div class="card-header">
-            @item.Title
-        </div>
-        <div class="card-body">
-            <h5 class="card-title">Special title treatment</h5>
-            <p class="card-text">@item.Description</p>
-            <a href="/Home/Details/@item.Id/" class="btn btn-primary">Go somewhere</a>
-        </div>
+    @foreach (var item in Model)
+    {
+        <div class="card text-center">
+            <div class="card-header">
+                @item.Title
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Special title treatment</h5>
+                <p class="card-text">@item.Description</p>
+                <a href="/Home/Details/@item.Id/" class="btn btn-primary">Görüntüle</a>
+                <a href="/Home/Update/@item.Id/" class="btn btn-success">Güncelle</a>
+                <a href="/Home/Delete/@item.Id/" class="btn btn-danger">Sil</a>
+            </div>
 
-    </div>
-}
+        </div>
+    }
 </body>
 </html>

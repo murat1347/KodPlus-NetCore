@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodplus.Dataaccess", "Kodplus.Dataaccess\Kodplus.Dataaccess.csproj", "{53A65729-5BB9-4580-AEA1-F3805C52CFF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kodplus.Dataaccess", "Kodplus.Dataaccess\Kodplus.Dataaccess.csproj", "{53A65729-5BB9-4580-AEA1-F3805C52CFF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodplus.Business", "Kodplus.Business\Kodplus.Business.csproj", "{0C54E62B-3E95-4CB7-A4E4-35E8EB457EBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kodplus.Business", "Kodplus.Business\Kodplus.Business.csproj", "{0C54E62B-3E95-4CB7-A4E4-35E8EB457EBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodplus.WebUI", "Kodplus.WebUI\Kodplus.WebUI.csproj", "{7BA2FA84-98E7-4025-A5DC-DE19DE004B5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kodplus.WebUI", "Kodplus.WebUI\Kodplus.WebUI.csproj", "{7BA2FA84-98E7-4025-A5DC-DE19DE004B5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodplus.DTO", "Kodplus.DTO\Kodplus.DTO.csproj", "{077A31A2-A566-4CE6-889A-67BB68E30C16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kodplus.DTO", "Kodplus.DTO\Kodplus.DTO.csproj", "{077A31A2-A566-4CE6-889A-67BB68E30C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodplus.API", "Kodplus.API\Kodplus.API.csproj", "{4B98CC66-B53A-40F0-9622-9062F3A0F60D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{077A31A2-A566-4CE6-889A-67BB68E30C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{077A31A2-A566-4CE6-889A-67BB68E30C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{077A31A2-A566-4CE6-889A-67BB68E30C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B98CC66-B53A-40F0-9622-9062F3A0F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B98CC66-B53A-40F0-9622-9062F3A0F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B98CC66-B53A-40F0-9622-9062F3A0F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B98CC66-B53A-40F0-9622-9062F3A0F60D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
