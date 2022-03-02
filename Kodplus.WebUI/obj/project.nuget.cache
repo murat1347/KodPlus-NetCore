@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8aeBcElYKy34EM5H+TPO+zae81pyW3V1471ziUs5cllkCoUg+AUDwQkLDiRsskctEHYmnJPFAYG3zz0zyurfUw==",
+  "dgSpecHash": "YwsnCIPyNtz290ageB7rP9eIY/wiYHkAth6FmP6sLS2dyMRo4HIrMXMCq59Vfjf9nEnEbjfPNN51en8zB7CfBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.WebUI\\Kodplus.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.WebUI\\Kodplus.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kodplus.dev1\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\kodplus.dev1\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",

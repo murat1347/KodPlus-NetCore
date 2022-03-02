@@ -1702,6 +1702,7 @@
       },
       "Kodplus.Dataaccess/1.0.0": {
         "dependencies": {
+          "AutoMapper": "11.0.1",
           "Dapper.Contrib": "2.0.78"
         },
         "runtime": {

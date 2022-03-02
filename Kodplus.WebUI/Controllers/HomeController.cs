@@ -61,7 +61,7 @@ namespace Kodplus.WebUI.Controllers
         public IActionResult Update(Article article)
         {
             _articleGenericService.Update(article);
-            return View();
+            return RedirectToAction("Index");
         }
 
         [HttpGet]
@@ -76,7 +76,7 @@ namespace Kodplus.WebUI.Controllers
         public IActionResult Delete(Article article)
         {
             _articleGenericService.Delete(article);
-            return View();
+            return RedirectToAction("Index");
         }
     }
 }

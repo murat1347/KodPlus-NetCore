@@ -1998,6 +1998,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "AutoMapper": "11.0.1",
           "Dapper.Contrib": "2.0.78"
         },
         "compile": {
@@ -6869,11 +6870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.WebUI\\Kodplus.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.WebUI\\Kodplus.WebUI.csproj",
       "projectName": "Kodplus.WebUI",
-      "projectPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.WebUI\\Kodplus.WebUI.csproj",
+      "projectPath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.WebUI\\Kodplus.WebUI.csproj",
       "packagesPath": "C:\\Users\\kodplus.dev1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kodplus.dev1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6890,14 +6891,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Business\\Kodplus.Business.csproj": {
-              "projectPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Business\\Kodplus.Business.csproj"
+            "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.Business\\Kodplus.Business.csproj": {
+              "projectPath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.Business\\Kodplus.Business.csproj"
             },
-            "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Dataaccess\\Kodplus.Dataaccess.csproj": {
-              "projectPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Dataaccess\\Kodplus.Dataaccess.csproj"
+            "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.Dataaccess\\Kodplus.Dataaccess.csproj": {
+              "projectPath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.Dataaccess\\Kodplus.Dataaccess.csproj"
             },
-            "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.DTO\\Kodplus.DTO.csproj": {
-              "projectPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.DTO\\Kodplus.DTO.csproj"
+            "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.DTO\\Kodplus.DTO.csproj": {
+              "projectPath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.DTO\\Kodplus.DTO.csproj"
             }
           }
         }

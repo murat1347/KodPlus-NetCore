@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mTOPw1TruvgYUXk7j5HDUQwd8Fpdnm+77r8ffpPv3Go/9Xjf+sHhN7x9jMA5eUUwF9+SxjXD5rTHDm5t4FJWxg==",
+  "dgSpecHash": "gn0MalXbco76pIxuZiYdWn6btk6cqujEtlfmGZP5i8tFDuzOrG4VQJ6SBYm5irIb8B39T/3mWa6cN7U+GME69A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.API\\Kodplus.API.csproj",
+  "projectFilePath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.API\\Kodplus.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kodplus.dev1\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\kodplus.dev1\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",

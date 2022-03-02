@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vfM39iYrRfzQyGiCbGT5UDkrNAn43xnqLyRl/sMP5Qkq6dGlqn0qlSn8O5lywlvbkeSoQWUlCyOb60oGwpkK+A==",
+  "dgSpecHash": "AQ25ASgnuKLbdSNa3BqRmW31HOv5nKVEn2BAw0SEmoxgpWcw3a/fdqPtAXcYHixKuovp3e3mhmfNsxCzP3LInA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.Business\\Kodplus.Business.csproj",
+  "projectFilePath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.Business\\Kodplus.Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kodplus.dev1\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\kodplus.dev1\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
-    "C:\\Users\\kodplus.dev1\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512"
+    "C:\\Users\\kodplus.dev1\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
+    "C:\\Users\\kodplus.dev1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

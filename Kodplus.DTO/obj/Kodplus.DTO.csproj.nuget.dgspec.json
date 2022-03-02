@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.DTO\\Kodplus.DTO.csproj": {}
+    "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.DTO\\Kodplus.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.DTO\\Kodplus.DTO.csproj": {
+    "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.DTO\\Kodplus.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.DTO\\Kodplus.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.DTO\\Kodplus.DTO.csproj",
         "projectName": "Kodplus.DTO",
-        "projectPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.DTO\\Kodplus.DTO.csproj",
+        "projectPath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.DTO\\Kodplus.DTO.csproj",
         "packagesPath": "C:\\Users\\kodplus.dev1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kodplus.dev1\\source\\repos\\Kodplus\\Kodplus.DTO\\obj\\",
+        "outputPath": "C:\\Users\\kodplus.dev1\\Desktop\\KodPlus-NetCore\\Kodplus.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kodplus.dev1\\AppData\\Roaming\\NuGet\\NuGet.Config",
